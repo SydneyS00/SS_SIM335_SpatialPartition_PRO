@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 38c1e6798c751c5478871e6cd0c4609f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - friendlyObj: {fileID: 978233293951383703, guid: a93e0f16116fa554b998829d115ea5bc, type: 3}
+  - enemyObj: {fileID: 532437579460887964, guid: 9b1283d6948c9c54782d6529789b2354, type: 3}
+  - enemyMaterial: {fileID: 2100000, guid: 29eaef5de8a271942adb2c6565f157e0, type: 2}
+  - closestEnemyMaterial: {fileID: 2100000, guid: 8b3b7730390512347bf3391167dceaf3, type: 2}
+  - enemyParent: {instanceID: 0}
+  - friendlyParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
